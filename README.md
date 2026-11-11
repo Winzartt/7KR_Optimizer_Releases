@@ -1,8 +1,8 @@
 # 7KR Optimizer — Windows beta
 
-[Download the beta installer](https://github.com/Winzartt/7KR_Optimizer_Releases/releases/tag/v0.1.7-beta.1)
+[Download the beta installer](https://github.com/Winzartt/7KR_Optimizer_Releases/releases/tag/v0.1.8-beta.1)
 
-Windows beta with a preconfigured public update feed. Existing users install this version once; future updates can be downloaded and installed from the launcher. Inventories, saved builds and settings remain local. Wireshark and Npcap are required for synchronization and are not bundled. Known issues: constrained searches may be slow; a one-point defense discrepancy in game preview remains under investigation. No developer inventory is included. The technical decoding key and game resources needed by the app are included. The installer is not digitally signed. Download the installer EXE below, not the automatically generated source archives.
+Simplified launcher and shorter startup guide. Update source locked to the official repository; external download URLs and redirects are rejected. Existing users: click Check, Download, then Install in the launcher. Inventories and saved builds are preserved. Wireshark and Npcap are required separately. Known issues remain: slow searches with some min/max filters and a one-point defense preview discrepancy. The installer is unsigned. Download the installer EXE below, not the source archives.
 
 This repository distributes the application only. The development repository remains private.
 Install Wireshark with Npcap from https://www.wireshark.org/download.html before starting synchronization.
